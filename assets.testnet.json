@@ -793,5 +793,25 @@
     "name": "WLFI",
     "index": 161,
     "type": "Crypto"
+  },
+  {
+    "name": "ASTER",
+    "index": 162,
+    "type": "Crypto"
+  },
+  {
+    "name": "0G",
+    "index": 163,
+    "type": "Crypto"
+  },
+  {
+    "name": "SKY",
+    "index": 164,
+    "type": "Crypto"
+  },
+  {
+    "name": "LINEA",
+    "index": 165,
+    "type": "Crypto"
   }
 ]
