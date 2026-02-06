@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DOGE",
+    "index": 5,
+    "type": "Crypto"
+  },
+  {
+    "name": "SOL",
+    "index": 15,
+    "type": "Crypto"
+  }
+]
