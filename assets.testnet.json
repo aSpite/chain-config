@@ -813,5 +813,50 @@
     "name": "LINEA",
     "index": 165,
     "type": "Crypto"
+  },
+  {
+    "name": "MU",
+    "index": 166,
+    "type": "Stock"
+  },
+  {
+    "name": "COIN",
+    "index": 167,
+    "type": "Stock"
+  },
+  {
+    "name": "HOOD",
+    "index": 168,
+    "type": "Stock"
+  },
+  {
+    "name": "PLTR",
+    "index": 169,
+    "type": "Stock"
+  },
+  {
+    "name": "AVGO",
+    "index": 170,
+    "type": "Stock"
+  },
+  {
+    "name": "SPCX",
+    "index": 171,
+    "type": "Stock"
+  },
+  {
+    "name": "HYPEDEGEN",
+    "index": 172,
+    "type": "Degen"
+  },
+  {
+    "name": "XRPDEGEN",
+    "index": 173,
+    "type": "Degen"
+  },
+  {
+    "name": "BNBDEGEN",
+    "index": 174,
+    "type": "Degen"
   }
 ]
